@@ -1,4 +1,4 @@
-#**"Demo Repository"**
+**"Demo Repository"**
 Welcome to my first GitHub repository! 🎉
 
 ##About:
