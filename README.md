@@ -1,11 +1,8 @@
 **"Demo Repository"**
 Welcome to my first GitHub repository! 🎉
 
-##About:
-***This repository is a demo project that will familiarize me with GitHub and its features. It doesn't contain any significant code just some simple examples and tests to understand how to:***
-
-***Create and manage repositories***
-***Make commits and push changes***
+ About:
+***This repository is a demo project that will familiarize me with GitHub and its features. It doesn't contain any significant code
 ***Open and merge pull requests***
 ***Use issues for tracking tasks and bugs***
 ***Explore GitHub's collaboration tools***
