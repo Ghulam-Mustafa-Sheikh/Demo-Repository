@@ -28,4 +28,4 @@ You can explore the repository and use it as a reference for your own GitHub jou
 <br>
 Since this is a demo repository, contributions aren't necessary. However, if you want to practice making pull requests or issues, you're welcome to do so!
 
-                                               **Thanks for checking out my demo repository!** 🌟
+                                    **Thanks for checking out my demo repository!** 🌟
