@@ -30,4 +30,4 @@ License:
 <br>
 This project is open-source and available under the MIT License. See the LICENSE file for more information.
 
-                                               #Thanks for checking out my demo repository! 🌟
+                                               Thanks for checking out my demo repository! 🌟
