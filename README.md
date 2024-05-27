@@ -21,4 +21,6 @@ Since this is a demo repository, contributions aren't necessary. However, if you
 ##License:
 This project is open-source and available under the MIT License. See the LICENSE file for more information.
 
+Author-Ghulam Mustafa
+
                                                #Thanks for checking out my demo repository! 🌟
